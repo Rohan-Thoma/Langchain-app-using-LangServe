@@ -34,3 +34,7 @@ numexpr
 huggingface_hub
 tqdm
 streamlit
+fastapi
+uvicorn
+langserve
+sse_starlette
